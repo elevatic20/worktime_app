@@ -2,6 +2,11 @@
   "expo": {
     "name": "worktime_app",
     "slug": "worktime_app",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "fcc4a30e-5f75-4e1d-9ac2-4d757e920a95"
+      }
+    }
   }
 }
